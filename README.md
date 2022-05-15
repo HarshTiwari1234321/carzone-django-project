@@ -7,8 +7,7 @@ allow the user to come to his site and browse through all of his latest cars and
 and make some inquiries about his cars that are out for the sale.
 
 In this Bootstrap template is implemented and turn it into websites's front-end. Customization of default Django 
-admin panel is done and converted it into a feature-rich, good-looking admin area. Login with Google & Login with Facebook is also implemented to 
-attract users into created website.
+admin panel is done and converted it into a feature-rich, good-looking admin area. 
 
 ## About the website
 
@@ -21,5 +20,4 @@ attract users into created website.
 - Pagination
 - Search Functionality
 - User Authentication
-- Login with Facebook & Login with Google
 - Database Dump Data & Load Data (local & remote)
