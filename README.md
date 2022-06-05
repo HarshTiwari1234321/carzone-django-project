@@ -20,4 +20,4 @@ admin panel is done and converted it into a feature-rich, good-looking admin are
 - Pagination
 - Search Functionality
 - User Authentication
-- Database Dump Data & Load Data (local & remote)
+- Database Dump Data & Load Data (local & remote) 
